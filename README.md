@@ -1,1 +1,1 @@
-그냥 공부용
+baekjoon algorithm
